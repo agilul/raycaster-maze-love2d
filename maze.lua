@@ -1,3 +1,5 @@
+-- Copyright 2016 Yat Hin Wong
+
 maze = {}
 
 local N, S, E, W = "north", "south", "east", "west"
