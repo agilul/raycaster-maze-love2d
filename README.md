@@ -2,6 +2,7 @@
 
 A simulated 3D environment with raycasting in a 2D randomly generated maze.
 Using a fixed number of raycasts it determines the distance of walls from the player and draws them accordingly.
+
 The maze is generated with the recursive backtracking algorithm and then converted to a format suitable for the renderer.
 
 Player controls:
